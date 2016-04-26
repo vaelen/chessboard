@@ -12,7 +12,9 @@ Rules:
 
 Example:
 - If the code is passed:  “knight, d2”
->    $ chessercise.py -piece KNIGHT -position d2
+````bash
+    $ chessercise.py -piece KNIGHT -position d2
+````
 - The output should be:  “b1, f1, b3, f3,c4, e4"
 
 Algebraic Notation Legend: 
